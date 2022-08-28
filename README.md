@@ -64,6 +64,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Dammmie0)
-- Twitter - [@yourusername](https://www.twitter.com/d_ebus)
+- Website - [DAVE]
+- Frontend Mentor - [@Dammmie0]
+- Twitter - [@d_ebus]
